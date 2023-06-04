@@ -1,52 +1,47 @@
 [{
     "id": 1,
-    "JUDUL": "ari",
+    "JUDUL": "Jomblo",
     "GENRE": "Carder",
-    "GAMBAR": "https://robohash.org/fugiateavoluptatem.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/joms.jpg"
   }, {
     "id": 2,
-    "JUDUL": "Norris",
+    "JUDUL": "lord of the rings",
     "GENRE": "Fairclough",
-    "GAMBAR": "https://robohash.org/eositaquererum.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 12.png"
   }, {
     "id": 3,
-    "JUDUL": "Udell",
+    "JUDUL": "The dragon public",
     "GENRE": "Blesing",
-    "GAMBAR": "https://robohash.org/consequaturcumtempora.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 13.png"
   }, {
     "id": 4,
-    "JUDUL": "Maureene",
+    "JUDUL": "Dessecant",
     "GENRE": "Batrim",
-    "GAMBAR": "https://robohash.org/recusandaeutfuga.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 19.png"
   }, {
     "id": 5,
-    "JUDUL": "Helen",
+    "JUDUL": "In fire",
     "GENRE": "Jost",
-    "GAMBAR": "https://robohash.org/eosdoloribusqui.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 21.png"
   }, {
     "id": 6,
-    "JUDUL": "Bernhard",
+    "JUDUL": "Cinta Brontosaurus",
     "GENRE": "O'Hegertie",
-    "GAMBAR": "https://robohash.org/corruptidebitisut.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/images (2).jpg"
   }, {
     "id": 7,
-    "JUDUL": "Pandora",
+    "JUDUL": "Marmut Merah jambu",
     "GENRE": "Iddy",
-    "GAMBAR": "https://robohash.org/autsintest.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/marmut.jpg"
   }, {
     "id": 8,
-    "JUDUL": "Palmer",
+    "JUDUL": "Agrhana",
     "GENRE": "Blanch",
-    "GAMBAR": "https://robohash.org/consecteturconsequatursimilique.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 22.png"
   }, {
     "id": 9,
     "JUDUL": "Retha",
     "GENRE": "Durston",
-    "GAMBAR": "https://robohash.org/placeatsuntut.png?size=50x50&set=set1"
-  }, {
-    "id": 10,
-    "JUDUL": "Inness",
-    "GENRE": "Jepensen",
-    "GAMBAR": "https://robohash.org/pariaturdolorconsequatur.png?size=50x50&set=set1"
+    "GAMBAR": "Picture/Rectangle 21.png"
   }
 ]
